@@ -2,11 +2,11 @@
 using namespace std;
 int main()
 {
-	int number1;
-	int number2;
-	int number3;
-	int sum;
-	int average;
+	float number1;
+	float number2;
+	float number3;
+	float sum;
+	float average;
 
 	
 	cout << "Please Enter Number one : ";
